@@ -1,6 +1,6 @@
 package sortingProblems;
 
-public class bubbleSort {
+public class SortingUsingLinkedHashMap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
