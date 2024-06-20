@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SearchCharArrayList {
-
+// Search the character in a given char arrayList
 	public static void main(String[] args) {
 		List<Character> charList = new ArrayList<>();
 		charList.add('a');

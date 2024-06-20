@@ -3,7 +3,7 @@ package stringManipulation;
 public class RemoveDuplicateWords {
 
 	public static void main(String[] args) {
-		String str = "Noida is a good city and is a good very good noida good and well maintained";
+		String str = "Noida is a good city and is a good very good noida good and well maintained noida";
 		String [] str1 = str.split(" ");
 		int count = 1;
 		
